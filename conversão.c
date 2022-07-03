@@ -14,5 +14,5 @@ int main(){
 	
 	R = conversao(E,C);
 	
-	printf("O valor em reais e: ", R);
+	printf("O valor em reais e: %.3f", R);
 }
